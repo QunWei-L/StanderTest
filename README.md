@@ -3,6 +3,8 @@ Small code when learning.
 
 #corejava.multithread:
 
+普通法: 用runnable,可复用线程.
+
 BlockingQueueDemo
 
 阻塞队列法  搜索文件/文件夹 中的关键词数量

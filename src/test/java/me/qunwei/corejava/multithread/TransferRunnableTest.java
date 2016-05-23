@@ -1,5 +1,7 @@
 package me.qunwei.corejava.multithread;
 
+import me.qunwei.corejava.multithread.普通.Bank;
+import me.qunwei.corejava.multithread.普通.TransferRunnable;
 import org.junit.Before;
 import org.junit.Test;
 
